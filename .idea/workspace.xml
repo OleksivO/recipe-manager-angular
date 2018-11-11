@@ -2,92 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0587c9f4-34fb-49df-bb05-4aea9ecb62b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/how-to-use.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/app.po.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/e2e/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/karma.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/protractor.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/auth/auth-guard.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/auth-guard.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/auth/auth-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/auth-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/auth/auth.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/auth.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/auth/signin/signin.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/signin/signin.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/auth/signin/signin.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/signin/signin.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/auth/signin/signin.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/signin/signin.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/auth/signup/signup.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/signup/signup.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/auth/signup/signup.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/signup/signup.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/auth/signup/signup.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/signup/signup.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/auth/store/auth.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/store/auth.actions.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/auth/store/auth.effects.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/store/auth.effects.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/auth/store/auth.reducers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/store/auth.reducers.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/core/core.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/core/core.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/core/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/core/header/header.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/core/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/core/header/header.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/core/home/home.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/core/home/home.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/core/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/core/home/home.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/core/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/core/home/home.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-detail/recipe-detail.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-detail/recipe-detail.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-detail/recipe-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-edit/recipe-edit.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-list/recipe-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-start/recipe-start.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-start/recipe-start.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-start/recipe-start.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-start/recipe-start.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe-start/recipe-start.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe-start/recipe-start.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipe.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipe.model.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipes-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipes-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipes.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipes.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipes.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipes.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipes.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/recipes.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/recipes.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/store/recipe.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/store/recipe.actions.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/store/recipe.effects.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/store/recipe.effects.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/recipes/store/recipe.reducers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/store/recipe.reducers.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shared/auth.interceptor.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/auth.interceptor.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shared/dropdown.directive.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/dropdown.directive.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shared/ingredient.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/ingredient.model.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shared/logging.interceptor.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/logging.interceptor.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shared/shared.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shared/shared.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-edit/shopping-edit.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-edit/shopping-edit.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-edit/shopping-edit.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/shopping-list.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/store/shopping-list.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/store/shopping-list.actions.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/shopping-list/store/shopping-list.reducers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/shopping-list/store/shopping-list.reducers.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/store/app.reducers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/store/app.reducers.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/_gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/environments/environment.prod.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/environments/environment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/polyfills.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -102,13 +20,16 @@
     <session id="1905633916">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="2" />
+          <entry key="gitignore" value="3" />
+          <entry key="html" value="1" />
           <entry key="js" value="1" />
           <entry key="json" value="6" />
           <entry key="ts" value="9" />
@@ -116,21 +37,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="HTML" value="1" />
           <entry key="JSON" value="6" />
           <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="TypeScript" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="20" />
+          <entry key="html" value="114" />
           <entry key="json" value="84" />
           <entry key="ts" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="HTML" value="114" />
           <entry key="JSON" value="84" />
           <entry key="PLAIN_TEXT" value="20" />
           <entry key="TypeScript" value="6" />
@@ -138,7 +62,7 @@
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="Angular2LanguageService" value="1" />
+          <entry key="Angular2LanguageService" value="2" />
           <entry key="TsLintLanguageService" value="1" />
           <entry key="TypeScriptServerServiceImpl" value="1" />
         </counts>
@@ -162,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/recipes/store/recipe.effects.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="120">
               <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
@@ -185,7 +109,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/shopping-list/store/shopping-list.reducers.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
+            <state relative-caret-position="1035">
               <caret line="71" selection-start-line="71" selection-end-line="71" />
               <folding>
                 <element signature="e#0#63#0" expanded="true" />
@@ -197,7 +121,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="165">
               <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
@@ -215,11 +139,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
+            <state relative-caret-position="440">
               <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/core/header/header.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="62" lean-forward="true" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -266,6 +208,7 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/app/auth/store/auth.effects.ts" />
         <option value="$PROJECT_DIR$/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/core/header/header.component.html" />
       </list>
     </option>
   </component>
@@ -297,7 +240,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,20 +263,21 @@
               <item name="recipe-manager-angular" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shopping-list" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="recipe-manager-angular" type="b2602c69:ProjectViewProjectNode" />
               <item name="recipe-manager-angular" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shopping-list" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -381,21 +324,21 @@
       <option name="presentableId" value="Default" />
       <updated>1539329799642</updated>
       <workItem from="1539329800831" duration="2178000" />
+      <workItem from="1541954097283" duration="1120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5308000" />
+    <option name="totallyTimeSpent" value="6624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="TypeScript" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
@@ -405,8 +348,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.43855423" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2987952" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -423,13 +368,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/karma.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -438,20 +377,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.angular-cli.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.angular-cli.json" />
     <entry file="file://$PROJECT_DIR$/src/app/auth/store/auth.actions.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
@@ -463,18 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#91#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/auth/auth-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -490,7 +404,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/recipes/store/recipe.effects.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="120">
           <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
@@ -509,7 +423,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/shopping-list/store/shopping-list.reducers.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="1035">
           <caret line="71" selection-start-line="71" selection-end-line="71" />
           <folding>
             <element signature="e#0#63#0" expanded="true" />
@@ -519,7 +433,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="165">
           <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
@@ -534,10 +448,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/auth/auth-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
+        <state relative-caret-position="440">
           <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/core/header/header.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="62" lean-forward="true" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
         </state>
       </provider>
     </entry>

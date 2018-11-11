@@ -6,7 +6,7 @@ import 'rxjs/add/operator/do';
 import 'rxjs/add/operator/switchMap';
 import 'rxjs/add/operator/mergeMap';
 import { fromPromise } from 'rxjs/observable/fromPromise';
-import * as firebase from 'firebase';
+import * as firebase from 'firebase/app';
 
 import * as AuthActions from './auth.actions';
 

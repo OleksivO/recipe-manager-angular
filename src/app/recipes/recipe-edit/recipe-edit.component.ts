@@ -5,6 +5,7 @@ import { Store } from '@ngrx/store';
 
 import * as RecipeActions from '../store/recipe.actions';
 import * as fromRecipe from '../store/recipe.reducers';
+import {take} from 'rxjs/operators';
 
 @Component({
   selector: 'app-recipe-edit',
@@ -73,18 +74,20 @@ export class RecipeEditComponent implements OnInit {
     let recipeName = '';
     let recipeImagePath = '';
     let recipeDescription = '';
-    let recipeIngredients = new FormArray([]);
+    const recipeIngredients = new FormArray([]);
 
     if (this.editMode) {
       this.store.select('recipes')
-        .take(1)
+        .pipe(
+          take(1)
+        )
         .subscribe((recipeState: fromRecipe.State) => {
           const recipe = recipeState.recipes[this.id];
           recipeName = recipe.name;
           recipeImagePath = recipe.imagePath;
           recipeDescription = recipe.description;
           if (recipe['ingredients']) {
-            for (let ingredient of recipe.ingredients) {
+            for (const ingredient of recipe.ingredients) {
               recipeIngredients.push(
                 new FormGroup({
                   'name': new FormControl(ingredient.name, Validators.required),
